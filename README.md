@@ -1,7 +1,5 @@
 Prazer, eu so o Leonardo Terada😁
 
--⭐Front End Jr
-
 -✏Estudando JavaScript
 
 <div>
